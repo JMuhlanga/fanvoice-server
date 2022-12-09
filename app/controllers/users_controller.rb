@@ -7,9 +7,9 @@ class UsersController < ApplicationController
     def show
         user = User.find_by(id: params[:id])
         if user
-            render json: user, except: [:created_at, :updated_at]
+            render json: user
         else
-            render json: {error:"User not found"}
+            render json: {error:"User not found/Not Authorized"}
         end
     end
 
