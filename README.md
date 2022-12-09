@@ -1,4 +1,3 @@
-
 # Fan-Voice-Ke by Jose Kupeka Muhlanga
 
 ## Introduction
@@ -41,3 +40,12 @@ the conversation
 * SQL
 * Rails
 
+## Relevant Links
+
+Client Repository:https://github.com/JMuhlanga/fanvoice-client
+
+Server Repository:https://github.com/JMuhlanga/fanvoice-server
+
+Deployed Server: https://fanvoice-server-production.up.railway.app/
+
+Deployed Project: https://fanvoice-client.vercel.app/
